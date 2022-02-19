@@ -20,4 +20,4 @@ text.addEventListener('input', function ()
    {
       textError.textContent = " Invalid Name";
    }
-});
+}); 
